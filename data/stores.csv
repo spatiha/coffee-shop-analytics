@@ -1,0 +1,4 @@
+store_id,store_name,location_type,base_daily_orders
+1,Downtown,financial district,340
+2,University,campus edge,260
+3,Parkside,residential,180

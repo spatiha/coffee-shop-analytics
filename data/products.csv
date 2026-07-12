@@ -1,0 +1,29 @@
+product_id,product_name,category,price,cost
+1,Espresso,espresso,3.25,0.55
+2,Americano,espresso,3.75,0.6
+3,Latte,espresso,5.25,1.1
+4,Cappuccino,espresso,5.0,1.05
+5,Flat White,espresso,5.25,1.1
+6,Mocha,espresso,5.75,1.35
+7,Caramel Latte,espresso,5.95,1.4
+8,Drip Coffee,brewed,2.95,0.4
+9,Pour Over,brewed,4.5,0.85
+10,Cold Brew,cold,4.95,0.9
+11,Iced Latte,cold,5.5,1.15
+12,Nitro Cold Brew,cold,5.75,1.05
+13,Iced Matcha Latte,cold,5.95,1.45
+14,Chai Latte,tea,4.95,1.0
+15,Earl Grey,tea,3.25,0.45
+16,Green Tea,tea,3.25,0.45
+17,Hot Chocolate,other_drink,4.5,1.1
+18,Butter Croissant,bakery,3.95,1.2
+19,Almond Croissant,bakery,4.75,1.55
+20,Blueberry Muffin,bakery,3.75,1.1
+21,Banana Bread,bakery,3.95,1.05
+22,Chocolate Chip Cookie,bakery,2.95,0.8
+23,Ham & Cheese Croissant,food,6.5,2.4
+24,Avocado Toast,food,8.95,3.1
+25,Breakfast Sandwich,food,7.95,2.9
+26,Granola Bowl,food,7.5,2.6
+27,12oz Whole Bean Bag,retail,16.95,8.2
+28,Ceramic Mug,retail,14.95,6.0
