@@ -1,0 +1,6 @@
+rfm_segment,customers,avg_recency_days,avg_orders,avg_lifetime_spend,total_spend,pct_of_revenue
+champions,2152,0.0,134.5,944.0,2030565.0,46.5
+steady,3196,4.0,66.4,467.0,1493430.0,34.2
+at_risk_regulars,528,5.0,131.9,921.0,486323.0,11.1
+lost,2488,17.0,15.8,112.0,277843.0,6.4
+promising_new,622,0.0,18.3,129.0,80365.0,1.8

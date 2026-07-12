@@ -1,0 +1,11 @@
+day_type,daypart,orders,revenue,pct_of_daytype_revenue
+weekday,1_morning_rush,179468,1260587.0,41.1
+weekday,2_mid_morning,71984,509282.0,16.6
+weekday,3_lunch,117375,834596.0,27.2
+weekday,4_afternoon,41163,277774.0,9.1
+weekday,5_evening,27154,182595.0,6.0
+weekend,1_morning_rush,75782,533814.0,40.9
+weekend,2_mid_morning,62990,445315.0,34.2
+weekend,3_lunch,42113,298852.0,22.9
+weekend,4_afternoon,3544,23468.0,1.8
+weekend,5_evening,333,2244.0,0.2

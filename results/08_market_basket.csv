@@ -1,0 +1,16 @@
+product_a,product_b,orders_together,confidence_a_to_b_pct,lift
+Latte,Almond Croissant,3112,6.0,3.03
+Flat White,Almond Croissant,3088,5.9,3.02
+Cappuccino,Almond Croissant,3042,5.9,2.99
+Caramel Latte,Almond Croissant,3005,5.8,2.95
+Latte,Butter Croissant,7331,14.0,1.94
+Cappuccino,Butter Croissant,7202,13.9,1.93
+Flat White,Butter Croissant,7241,13.9,1.93
+Caramel Latte,Butter Croissant,7058,13.7,1.89
+Americano,Avocado Toast,1057,2.0,1.47
+Espresso,Breakfast Sandwich,1833,3.6,1.44
+Mocha,Avocado Toast,1037,2.0,1.44
+Mocha,Breakfast Sandwich,1831,3.5,1.43
+Americano,Blueberry Muffin,4969,9.6,1.43
+Espresso,Chocolate Chip Cookie,3284,6.4,1.43
+Mocha,Chocolate Chip Cookie,3315,6.4,1.43

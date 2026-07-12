@@ -1,0 +1,29 @@
+category,product_name,units,revenue,gross_profit,margin_pct,profit_rank_in_category
+bakery,Butter Croissant,44984.0,177687.0,123706.0,69.6,1
+bakery,Blueberry Muffin,41712.0,156420.0,110537.0,70.7,2
+bakery,Banana Bread,28090.0,110955.0,81461.0,73.4,3
+bakery,Chocolate Chip Cookie,27644.0,81550.0,59435.0,72.9,4
+bakery,Almond Croissant,12247.0,58173.0,39190.0,67.4,5
+brewed,Pour Over,29518.0,132831.0,107741.0,81.1,1
+brewed,Drip Coffee,29694.0,87597.0,75720.0,86.4,2
+cold,Nitro Cold Brew,39569.0,227522.0,185974.0,81.7,1
+cold,Iced Matcha Latte,39936.0,237619.0,179712.0,75.6,2
+cold,Iced Latte,39729.0,218510.0,172821.0,79.1,3
+cold,Cold Brew,39774.0,196881.0,161085.0,81.8,4
+espresso,Caramel Latte,55354.0,336985.0,259490.0,77.0,1
+espresso,Mocha,55601.0,327025.0,251963.0,77.0,2
+espresso,Latte,55938.0,300444.0,238913.0,79.5,3
+espresso,Flat White,55565.0,298411.0,237290.0,79.5,4
+espresso,Cappuccino,55304.0,282839.0,224770.0,79.5,5
+espresso,Americano,55586.0,213212.0,179860.0,84.4,6
+espresso,Espresso,55216.0,183574.0,153205.0,83.5,7
+food,Breakfast Sandwich,15327.0,121850.0,77401.0,63.5,1
+food,Ham & Cheese Croissant,17509.0,113809.0,71787.0,63.1,2
+food,Avocado Toast,8604.0,77006.0,50333.0,65.4,3
+food,Granola Bowl,5286.0,39645.0,25901.0,65.3,4
+other_drink,Hot Chocolate,14452.0,65034.0,49137.0,75.6,1
+retail,12oz Whole Bean Bag,6538.0,110819.0,57208.0,51.6,1
+retail,Ceramic Mug,2838.0,42428.0,25400.0,59.9,2
+tea,Chai Latte,14850.0,73507.0,58657.0,79.8,1
+tea,Earl Grey,14946.0,48575.0,41849.0,86.2,2
+tea,Green Tea,14652.0,47619.0,41026.0,86.2,3

@@ -1,0 +1,5 @@
+grp,period,avg_weekly_units,avg_weekly_revenue
+all other drinks,before,3349.0,15203.0
+all other drinks,after,4342.0,19750.0
+espresso (price up 4%),before,6547.0,32109.0
+espresso (price up 4%),after,8400.0,42656.0
